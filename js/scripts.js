@@ -1,2 +1,3 @@
 // Awesome Interaction
-console.log ('YO');
+console.log('YO');
+$('h1').lettering();

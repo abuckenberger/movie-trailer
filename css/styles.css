@@ -1,4 +1,37 @@
 /*Awesome Styling*/
 h1 {
-  color: hotpink;
+  color: #000;
+  text-align: center;
+  font-size: 6em;
+  text-transform: uppercase;
+  font-style: italic;
+}
+.char1 {
+  color: #999;
+}
+.char2 {
+  color: #888;
+}
+.char4 {
+  color: #777;
+}
+.char5 {
+  color: #666;
+}
+.char6 {
+color: #555;
+  letter-spacing: -3px;
+}
+.char7 {
+  color: #444;
+  letter-spacing: -3px;
+}
+.char8 {
+  color: #333;
+}
+.char9 {
+  color: #222;
+}
+.char10 {
+  color: #111;
 }
