@@ -1,8 +1,12 @@
 /*Main Stylesheet*/
 
 
+/* Color Palette */
+$primary-color: hotpink;
+$secondary-color: pink;
+
 h1 {
-    color: hotpink;
+    color: $primary-color;
     text-transform: uppercase;
 }
 body {
