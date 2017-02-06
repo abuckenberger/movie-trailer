@@ -1,14 +1,6 @@
-/*Main Stylesheet*/
+// MAIN STYLES
 
-
-/* Color Palette */
-$primary-color: hotpink;
-$secondary-color: pink;
-
-h1 {
-    color: $primary-color;
-    text-transform: uppercase;
-}
-body {
-    background: pink;
-}
+@import "global";
+@import "typography";
+@import "grid";
+@import "video";
