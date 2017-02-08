@@ -12,6 +12,10 @@
        content: "Mobile Size";
   }
     
+    article p {
+        padding: 2em;
+    }
+    
 }
 
 /* Tablet:  768px = 160em */
@@ -26,6 +30,11 @@
     main article,
     main aside {
         width: 50%;
+
+    }
+    
+    section {
+        padding: 4.75em;
     }
     
   /* Diagnostic Styling. Delete When Done. */
@@ -45,5 +54,13 @@
        background: yellow;
        content: "Desktop Size";
   }
+    header h1 {
+        
+        display: none;
+    }
+    section {
+        padding-top: none;
+    }
+
 
 }
