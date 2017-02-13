@@ -45,6 +45,26 @@ video {
     width: 100%;
 }
 
+.mejs__time-total {
+    margin: 5px 0 0 0;
+    background: #2f425a;
+    width: 100%;
+}
+
+.mejs__time {
+    color: #2f425a;
+    display: block;
+    height: 24px;
+    width: auto;
+    font-weight: bold;
+    font-size: 11px;
+    padding: 16px 6px 0 6px;
+    overflow: hidden;
+    text-align: center;
+    box-sizing: content-box;
+}
+
+
 // LINKS
 
 li, a {
