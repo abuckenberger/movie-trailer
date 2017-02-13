@@ -11,7 +11,8 @@ $bodycopy: white;
 h1 {
     color: white;
     font-family: 'Six Caps', sans-serif;
-    padding: .75 em;
+    padding-left: .75 em;
+    padding-top: none;
     text-align: center;
     display:block;
     font-size: 9em;
@@ -21,6 +22,7 @@ h1 {
 
 //LETTERING
 span.char1 {
+    
    
 }
    
@@ -70,10 +72,10 @@ img {
 
     
 p10 {
-    font-size: 250px;
+    font-size: 175px;
     display:block;
     text-align: center;
-    color:$tertiary-color;
+    color:$tertiary-color; 
     margin-top: -.6em;
 
 }
