@@ -1,15 +1,20 @@
 // Global Stylesheet
 
 // Color Palette
-$primary-color: #ff0045;
-$secondary-color: #35aa66;
-$tertiary-color: #4e71bf;
-$bodycopy: #444;
+$primary-color: white;
+$secondary-color: #2f425a;
+$tertiary-color: #fddc00;
+$bodycopy: white;
 
 //TYPOGRAPHY
 
 h1 {
+    color: white;
     font-family: 'Six Caps', sans-serif;
+    padding-bottom: 1em;
+    text-align: center;
+    display:block;
+    
 }
 
 //HIDE FOR MOBILE/TABLET
@@ -26,4 +31,12 @@ video {
     width: 100%;
 }
 
+
+// IMG STYLING
+
+img {
+    display: inline-block;
+    width: 65px;
+    
+}
 
