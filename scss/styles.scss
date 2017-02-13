@@ -6,7 +6,7 @@
 @import "media-queries";
 
 body {
-    background: $secondary-color;
+    background: black;
 }
 
 p {
@@ -19,7 +19,6 @@ li, a {
     color: $tertiary-color;
     list-style: none;
     display: inline-block;
-    padding:1em;
     text-align: center;
     
 }
