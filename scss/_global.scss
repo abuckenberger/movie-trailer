@@ -1,10 +1,14 @@
 // Global Stylesheet
 
+
+
 // Color Palette
 $primary-color: white;
 $secondary-color: #2f425a;
 $tertiary-color: #fddc00;
 $bodycopy: white;
+
+
 
 //TYPOGRAPHY
 
@@ -22,6 +26,8 @@ h1 {
 
 
 //LETTERING
+
+
 span.char17, span.char18, span.char19, span.char20, span.char21 {
     font-style:italic;
     
@@ -29,10 +35,8 @@ span.char17, span.char18, span.char19, span.char20, span.char21 {
 }
    
 
-
-
-
 // VIDEO PLAYER
+
 
 video {
     max-width: 100%;
@@ -59,6 +63,7 @@ video {
 }
 
 
+
 // LINKS
 
 li, a {
@@ -70,6 +75,8 @@ li, a {
 }
 
 
+
+
 // IMG STYLING
 
 img {
@@ -79,8 +86,7 @@ img {
     margin-right: 50px;
     margin-left: 30%;
     margin-bottom: 50%;
-        
-    
+           
     
 }
 
@@ -93,6 +99,8 @@ p10 {
     margin-top: -.6em;
 
 }
+
+
 
 // FOOTER STYLING
 
