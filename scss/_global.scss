@@ -20,8 +20,10 @@ h1 {
 }
 
 
+
 //LETTERING
-span.char1 {
+span.char17, span.char18, span.char19, span.char20, span.char21 {
+    font-style:italic;
     
    
 }
@@ -39,12 +41,12 @@ video {
 
 .mejs__time-total {
     margin: 5px 0 0 0;
-    background: #2f425a;
+    background: $secondary-color;
     width: 100%;
 }
 
 .mejs__time {
-    color: #2f425a;
+    color: $secondary-color;
     display: block;
     height: 24px;
     width: auto;
